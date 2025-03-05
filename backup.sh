@@ -2,3 +2,4 @@
 echo 'Backup started'
 tar -czf backup.tar.gz /path/to/backup
 # This is a backup script for important files
+echoo 'This is an error'
